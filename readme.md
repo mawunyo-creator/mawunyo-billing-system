@@ -1,0 +1,1 @@
+I have made progress in creating a billing and monitoring app that checks and regulates electrical loads of appliances to prevent wastage and ensure efficiency
